@@ -1,0 +1,57 @@
+commit f4be2d58cc36b91e6fc810a8235e00c746602fe4
+Merge: d06878e 9a9913a
+Author: Anthony Gallardo <Agalla66@calstatela.edu>
+Date:   Wed Feb 4 18:31:36 2026 -0800
+
+    Resolve merge conflict in index.html
+
+commit 9a9913afaa6d07a9c8c64b27246e40f51e9708c6
+Author: Anthony Gallardo <Agalla66@calstatela.edu>
+Date:   Wed Feb 4 18:29:23 2026 -0800
+
+    My favorite italian food
+
+commit d06878ef5f9eee8517cd9258fb429aa25ff31d4f
+Author: Anthony Gallardo <Agalla66@calstatela.edu>
+Date:   Wed Feb 4 18:28:02 2026 -0800
+
+    Add favorite food div
+
+commit 6afc726ce1eca80d82779f4cde999a2e52676786
+Author: Anthony Gallardo <Agalla66@calstatela.edu>
+Date:   Wed Feb 4 18:18:05 2026 -0800
+
+    add README.md
+
+commit 1eeae3bdc0ac67696c31ffeb1ce6baec03f56158
+Author: Anthony Gallardo <Agalla66@calstatela.edu>
+Date:   Wed Feb 4 18:14:48 2026 -0800
+
+    Resolve merge conflict
+
+commit b01b59ff68379fc8e167d621f0851af031f95450
+Author: Anthony Gallardo <Agalla66@calstatela.edu>
+Date:   Wed Feb 4 18:11:19 2026 -0800
+
+    Add README describing repository
+
+commit e90e0420e834631a4755a18dde74185ade28ac4a
+Merge: 1d2bfc0 ba02ba4
+Author: Anthony Gallardo <agalla66@calstatela.edu>
+Date:   Wed Feb 4 17:56:45 2026 -0800
+
+    Merge pull request #1 from AnthonyG232/info-fill
+    
+    Fill in requied infor in index.html
+
+commit ba02ba4b48f9115daa845321fe24d138013a4a60
+Author: Anthony Gallardo <Agalla66@calstatela.edu>
+Date:   Wed Feb 4 17:47:45 2026 -0800
+
+    Fill in requied infor in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
